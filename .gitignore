@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+node_modules/
+client/node_modules/
+server/node_modules/
+.next/
+dist/
+build/
+coverage/
+venv/
+.venv/
+__pycache__/
+*.pyc
+

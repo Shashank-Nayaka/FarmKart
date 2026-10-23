@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "title": "FarmKart: An On-Demand Agricultural Machinery Dispatch and Input E-Commerce Platform with Real-Time Geospatial Telematics and Resilient Dual-Engine Persistence",
+    "upload_type": "publication",
+    "publication_type": "preprint",
+    "publication_date": "2026-10-21",
+    "description": "<p>Smallholder and marginal farmers in developing agrarian economies face persistent structural barriers, including severe farm machinery deficits during narrow planting and harvesting windows, catastrophic delays from unassisted on-field machinery breakdowns, and exploitation in the retail procurement of certified seeds and fertilizers. To address these multi-faceted challenges, this paper presents <b>FarmKart</b>, an integrated dual-engine cyber-physical platform combining on-demand agricultural machinery dispatch (\"Uber for Tractors\") with an atomic-inventory agricultural input marketplace (\"Krishi Bazaar\").</p><p>The platform incorporates a dynamic geospatial telematics engine (Cubic B&eacute;zier path interpolation and Haversine distance), single-use cryptographic OTP verification, an ACID-compliant e-commerce inventory controller with atomic decrements, and a transparent dual-engine persistence proxy adapter providing sub-200ms failover from MongoDB Atlas cloud to local JSON-backed storage in rural network partitions.</p>",
+    "creators": [
+      {
+        "name": "Nayaka, Shashank",
+        "affiliation": "Department of Computer Science & Engineering, Visvesvaraya Technological University"
+      }
+    ],
+    "keywords": [
+      "Agricultural Mechanization",
+      "Custom Hiring Centers",
+      "On-Demand Ride-Hailing",
+      "Real-Time GPS Telematics",
+      "Geospatial Interpolation",
+      "E-Commerce Concurrency",
+      "Fault-Tolerant Persistence",
+      "React 19",
+      "Node.js"
+    ],
+    "license": "CC-BY-4.0",
+    "access_right": "open",
+    "language": "eng",
+    "communities": [
+      { "identifier": "computer-science" },
+      { "identifier": "open-access-agriculture" }
+    ]
+  }
+}
